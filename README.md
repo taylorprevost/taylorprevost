@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS and JavaScript.
 - 📫 How to reach me...
     email: taylorprevost777@gmail.com
-    linkedin: linkedin.com/in/taylorprevost
+    linkedin: www.linkedin.com/in/taylorprevost
 
 <!---
 taylorprevost/taylorprevost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
