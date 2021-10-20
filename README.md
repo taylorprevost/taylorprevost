@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing beautiful and interactive web sites and programs.
 - 🌱 I’m currently learning CSS and JavaScript.
 - 📫 How to reach me...
-    email: taylorprevost777@gmail.com
+    email: taylor.prevostpro@gmail.com
     linkedin: www.linkedin.com/in/taylorprevost
 
 <!---
